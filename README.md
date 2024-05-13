@@ -1,4 +1,4 @@
-# login
+# furniture app
 
 A new Flutter project.
 
